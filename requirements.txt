@@ -1,0 +1,4 @@
+Clone repository.
+install node
+run this command: npm i
+run this command: npm start
