@@ -2,3 +2,4 @@ Clone repository.
 install node
 run this command: npm i
 run this command: npm start
+find api in this link: http://localhost:3000/apidoc/index.html
