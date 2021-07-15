@@ -1,7 +1,7 @@
 {
   "name": "Example",
   "version": "0.1.0",
-  "description": "Libarary API",
+  "description": "Library API",
   "title": "API Documentation",
   "url": "http://localhost:3000/api/v1",
   "sampleUrl": "null",
