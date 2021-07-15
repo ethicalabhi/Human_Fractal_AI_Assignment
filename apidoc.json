@@ -1,0 +1,8 @@
+{
+    "name": "example",
+    "version": "0.1.0",
+    "description": "Library Api",
+    "title": "API Documentation",
+    "url" : "http://localhost:3000/api/v1",
+    "sampleUrl":"null"
+  }

@@ -1,0 +1,26 @@
+{
+  "name": "Library_Management_System",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Abhijeet Prakash <abhijeet_012@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "apidoc": "^0.28.1",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.2",
+    "nodemon": "^2.0.12"
+  },
+  "devDependencies": {
+    "grunt-apidoc": "^0.11.0"
+  }
+}
